@@ -2581,3 +2581,810 @@ Script call stack:
 [2022.03.12-09.08.47:021][900]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/ThirdPersonExampleMap_Auto784EC76F143482552429D70B02CE9DC7B.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
 [2022.03.12-09.08.47:022][900]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
 [2022.03.12-09.08.47:022][900]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2022.03.12-09.28.21:676][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.12-09.33.12:565][181]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.03.12-09.33.12:576][181]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.03.12-09.33.14:949][460]LogContentBrowser: Attempting asset rename: NewMaterial -> Emissive
+[2022.03.12-09.33.14:951][460]LogContentBrowser: End creating deferred item NewMaterial
+[2022.03.12-09.33.15:347][506]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/PlayerBP/Emissive.Emissive
+[2022.03.12-09.33.15:351][506]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.33.15:564][506]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.33.15:574][506]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.33.16:536][598]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.33.16:536][598]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.33.16:536][598]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.33.16:536][598]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.16:991][470]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.41.17:021][471]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.41.17:911][547]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.17:911][547]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.17:911][547]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.17:911][547]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.18:766][636]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.18:794][637]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.41.18:795][637]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.41.19:428][700]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.19:429][700]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.19:429][700]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.19:429][700]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.32:633][821]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.32:637][821]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.41.32:655][822]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.41.32:664][823]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.41.32:665][823]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.41.32:665][823]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.41.33:196][876]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.41.33:642][905]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.33:642][905]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.33:642][905]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.33:642][905]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.38:828][ 54]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.38:833][ 54]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_1, compiling. 
+[2022.03.12-09.41.38:847][ 55]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.41.38:848][ 55]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.41.39:416][104]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.41.39:692][129]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.39:692][129]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.39:692][129]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.39:692][129]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.42:094][323]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.41.42:135][324]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.41.42:788][377]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.42:788][377]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.42:788][377]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.42:788][377]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.44:968][611]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.41.45:013][612]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.41.45:021][612]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.03.12-09.41.45:042][613]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.03.12-09.41.45:042][613]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.03.12-09.41.45:767][674]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.45:767][674]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.45:767][674]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.45:767][674]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.46:349][735]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.41.46:373][736]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.41.47:028][795]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.47:029][795]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.47:029][795]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.47:029][795]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.41.49:574][ 20]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.49:578][ 20]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.41.49:583][ 20]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.41.49:585][ 20]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.41.49:597][ 20]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.41.50:139][ 46]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2022.03.12-09.41.50:139][ 46]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.03.12-09.41.50:139][ 46]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.03.12-09.41.50:157][ 46]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.03.12-09.41.50:269][ 51]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.03.12-09.41.50:306][ 54]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.03.12-09.41.50:336][ 56]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.03.12-09.41.50:409][ 59]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.41.50:438][ 60]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.03.12-09.41.50:511][ 62]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.03.12-09.41.50:511][ 62]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.41.50:520][ 62]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.03.12-09.41.50:642][ 67]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.41.51:163][108]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.41.51:163][108]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.41.51:163][108]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.41.51:163][108]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.42.04:330][453]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.42.04:341][453]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.42.04:343][453]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.42.04:362][454]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.42.04:362][454]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.42.04:362][454]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.42.04:967][492]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.42.05:408][521]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.42.05:408][521]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.42.05:408][521]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.42.05:408][521]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.42.05:724][559]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.42.05:737][559]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.42.05:738][559]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.42.05:746][559]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.12-09.42.05:765][560]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.42.05:765][560]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.42.05:765][560]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.42.06:408][601]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.42.06:809][630]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.03.12-09.42.06:809][630]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.03.12-09.42.06:809][630]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.42.06:809][630]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.42.45:869][192]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.42.45:880][192]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.42.45:882][192]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.42.45:988][198]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.42.45:988][198]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.42.45:989][198]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.42.46:793][254]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.03.12-09.42.47:260][285]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.42.47:260][285]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.42.47:260][285]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.42.47:260][285]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.42.51:539][719]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.42.51:548][719]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.42.51:559][720]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.42.52:220][760]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.42.52:678][786]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.42.52:678][786]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.42.52:678][786]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.42.52:678][786]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.42.55:954][ 71]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.42.55:964][ 71]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.42.55:969][ 71]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.42.55:969][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.12-09.42.56:633][114]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.42.57:076][143]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.42.57:076][143]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.42.57:076][143]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.42.57:076][143]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.42.59:468][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.42.59:472][405]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.42.59:480][405]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.42.59:480][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.42.59:485][405]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.42.59:491][405]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.12-09.43.00:132][450]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2022.03.12-09.43.00:167][452]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2022.03.12-09.43.00:219][455]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.03.12-09.43.00:265][458]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.03.12-09.43.00:339][463]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.03.12-09.43.00:340][463]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2022.03.12-09.43.00:446][471]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2022.03.12-09.43.00:580][480]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.03.12-09.43.00:591][481]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2022.03.12-09.43.00:635][484]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.03.12-09.43.00:635][484]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.03.12-09.43.00:767][492]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.03.12-09.43.00:783][493]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.03.12-09.43.01:519][549]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.43.01:520][549]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.43.01:520][549]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.43.01:520][549]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.43.03:457][762]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.03:463][762]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.43.03:468][762]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.43.03:468][762]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.04:102][805]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2022.03.12-09.43.04:138][806]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2022.03.12-09.43.04:138][806]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.03.12-09.43.04:163][807]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2022.03.12-09.43.04:300][814]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.03.12-09.43.04:369][819]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2022.03.12-09.43.04:385][820]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.03.12-09.43.04:511][828]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.03.12-09.43.04:567][832]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.03.12-09.43.04:592][834]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.03.12-09.43.05:296][898]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.43.05:296][898]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.43.05:296][898]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.43.05:296][898]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.43.16:546][895]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.43.16:556][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.43.16:558][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.16:571][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.16:579][895]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.43.16:579][895]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.43.16:579][895]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.43.16:583][895]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.16:598][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.16:607][895]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.16:619][895]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.12-09.43.17:226][934]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2022.03.12-09.43.17:226][934]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.03.12-09.43.17:256][936]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2022.03.12-09.43.17:256][936]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.03.12-09.43.17:479][952]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2022.03.12-09.43.17:494][953]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.03.12-09.43.17:507][954]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.03.12-09.43.17:641][963]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.43.17:656][964]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.03.12-09.43.17:728][969]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.03.12-09.43.17:728][969]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.43.17:744][970]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.03.12-09.43.17:848][977]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.03.12-09.43.18:578][ 38]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.43.18:578][ 38]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.43.18:578][ 38]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.43.18:578][ 38]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.43.26:713][877]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.43.26:722][877]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.43.26:749][877]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.26:756][877]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.43.26:756][877]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.43.26:756][877]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.43.27:431][917]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.43.27:525][923]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.27:541][923]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2022.03.12-09.43.27:541][923]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.03.12-09.43.27:541][923]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2022.03.12-09.43.27:545][923]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.27:558][923]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.12-09.43.27:584][924]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.03.12-09.43.27:584][924]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2022.03.12-09.43.27:656][929]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.43.27:738][935]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.03.12-09.43.27:783][938]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.43.27:842][942]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.03.12-09.43.27:876][944]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.03.12-09.43.27:876][944]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2022.03.12-09.43.28:057][955]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.03.12-09.43.28:256][967]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.03.12-09.43.28:762][  9]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.43.28:762][  9]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.43.28:763][  9]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.43.28:763][  9]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.43.33:712][531]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.43.33:720][531]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.43.33:720][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.33:734][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.33:742][531]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.33:753][531]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.43.33:753][531]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.43.33:753][531]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.43.33:759][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.33:771][531]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.33:784][531]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.12-09.43.34:429][571]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2022.03.12-09.43.34:429][571]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.03.12-09.43.34:429][571]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2022.03.12-09.43.34:429][571]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2022.03.12-09.43.34:590][583]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.03.12-09.43.34:613][585]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.03.12-09.43.34:733][593]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.03.12-09.43.34:792][596]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2022.03.12-09.43.34:838][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.03.12-09.43.34:866][601]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.03.12-09.43.34:882][602]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.03.12-09.43.34:899][603]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.03.12-09.43.35:118][617]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.43.35:751][670]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.43.35:751][670]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.43.35:751][670]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.43.35:751][670]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.43.45:601][229]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.45:606][229]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.43.45:614][229]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.43.45:617][229]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.12-09.43.45:655][230]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.12-09.43.45:655][230]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.03.12-09.43.45:655][230]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.03.12-09.43.46:316][271]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.03.12-09.43.46:710][295]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.43.46:710][295]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.43.46:710][295]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.43.46:710][295]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.44.13:964][978]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.44.13:969][978]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.44.14:011][979]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.44.15:083][ 42]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.03.12-09.44.15:083][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.03.12-09.44.15:083][ 42]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.44.15:083][ 42]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.44.22:981][692]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.44.22:995][693]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.44.24:633][748]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.03.12-09.44.24:633][748]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.03.12-09.44.24:633][748]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.44.24:633][748]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.44.28:229][946]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.44.28:235][946]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.44.28:248][947]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.44.29:118][ 20]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.03.12-09.44.29:118][ 20]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.03.12-09.44.29:118][ 20]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.44.29:118][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.12-09.44.55:687][405]LogMaterialEditor: Saving and Compiling material Emissive
+[2022.03.12-09.44.56:071][405]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.03.12-09.44.56:100][405]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.12-09.44.56:107][405]LogMaterial: Display: Missing cached shader map for material Emissive, compiling. 
+[2022.03.12-09.44.56:166][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2022.03.12-09.44.56:180][405]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.12-09.44.56:730][405]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2022.03.12-09.44.56:730][405]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2022.03.12-09.44.56:730][405]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2022.03.12-09.44.56:930][405]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2022.03.12-09.44.56:930][405]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.03.12-09.44.56:930][405]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.03.12-09.44.56:942][405]TextureStreamingBuild: Display: Compiling optional shaders took 0.772 seconds.
+[2022.03.12-09.44.56:989][405]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2022.03.12-09.44.56:990][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.03.12-09.44.57:011][405]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.03.12-09.44.57:618][405]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.03.12-09.44.57:619][405]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.03.12-09.44.57:619][405]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.03.12-09.44.57:619][405]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.03.12-09.44.57:619][405]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.03.12-09.44.58:010][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBP/Emissive" FILE="../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/Emissive.uasset" SILENT=true
+[2022.03.12-09.44.58:015][405]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/EmissiveDA9B6C25470F2C0AB2FEC5B339D1C9E7.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/Emissive.uasset'
+[2022.03.12-09.44.58:052][405]AssetCheck: New page: Asset Save: Emissive
+[2022.03.12-09.44.58:052][405]LogContentValidation: Display: Validating Material /Game/PlayerBP/Emissive.Emissive
+[2022.03.12-09.44.58:053][405]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.03.12-09.44.58:053][405]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.03.12-09.44.58:053][405]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.12-09.44.58:053][405]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.12-09.45.08:548][454]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.03.12-09.45.08:559][454]LogContentBrowser: Creating deferred item: NewFolder
+[2022.03.12-09.45.11:266][768]LogContentBrowser: Attempting asset rename: NewFolder -> LaserBP
+[2022.03.12-09.45.11:266][768]LogContentBrowser: End creating deferred item NewFolder
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.Laser:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.SKEL_Laser_C' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.Laser_C' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.Laser:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.Laser:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.Laser:EventGraph.K2Node_Event_2' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.SKEL_Laser_C:ReceiveBeginPlay' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.16:983][259]LogMetaData: Removing '/Game/PlayerBP/LaserBP/Laser.SKEL_Laser_C:UserConstructionScript' ref from Metadata '/Game/PlayerBP/Laser.PackageMetaData'
+[2022.03.12-09.45.17:007][259]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Emissive69E42B8545C2317753556BB1F376CEE2.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Emissive.uasset'
+[2022.03.12-09.45.17:016][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBP/LaserBP/Laser" FILE="../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Laser.uasset" SILENT=true
+[2022.03.12-09.45.17:023][259]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Laser040D1EBF43136D41259D8083E6D6C7F9.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Laser.uasset'
+[2022.03.12-09.45.17:153][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.03.12-09.45.17:173][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.12-09.45.17:203][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.12-09.45.17:222][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.12-09.45.17:290][259]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.12-09.45.17:290][259]LogContentValidation: Display: Validating Blueprint /Game/PlayerBP/LaserBP/Laser.Laser
+[2022.03.12-09.45.17:290][259]LogContentValidation: Display: Validating Material /Game/PlayerBP/LaserBP/Emissive.Emissive
+[2022.03.12-09.45.21:151][625]LogContentBrowser: Deferred new asset file creation: Emissive_Inst
+[2022.03.12-09.45.21:161][625]LogContentBrowser: Creating deferred item: Emissive_Inst
+[2022.03.12-09.45.28:514][487]LogContentBrowser: Attempting asset rename: Emissive_Inst -> Emissive_Red
+[2022.03.12-09.45.28:515][487]LogContentBrowser: End creating deferred item Emissive_Inst
+[2022.03.12-09.45.30:015][650]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PlayerBP/LaserBP/Emissive_Red.Emissive_Red
+[2022.03.12-09.45.30:130][650]LogRenderer: Reallocating scene render targets to support 1336x912 Format 10 NumSamples 1 (Frame:1).
+[2022.03.12-09.45.52:176][900]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.12-09.46.02:188][789]LogSlate: Window 'Save Asset As' being destroyed
+[2022.03.12-09.46.04:363][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.03.12-09.46.04:364][ 25]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.03.12-09.46.04:383][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.12-09.46.04:387][ 25]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Emissive_Red460540C34703533EEED74C933BAECB1F.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Emissive_Red.uasset'
+[2022.03.12-09.46.04:404][ 25]AssetCheck: New page: Asset Save: Emissive_Red
+[2022.03.12-09.46.04:404][ 25]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PlayerBP/LaserBP/Emissive_Red.Emissive_Red
+[2022.03.12-09.46.06:542][159]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.12-09.46.06:542][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.12-09.46.33:706][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.03.12-09.46.33:718][508]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/ThirdPersonExampleMap_Auto8F25F9EE84E63B3213ECA28A2AAC9BF3B.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2022.03.12-09.46.33:719][508]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.035
+[2022.03.12-09.46.33:719][508]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2022.03.12-09.47.08:082][993]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/PlayerBP/LaserBP/Emissive_Red.Emissive_Red
+[2022.03.12-09.48.22:901][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.03.12-09.48.22:902][605]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.03.12-09.48.22:921][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.12-09.48.22:924][605]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Emissive_RedA29CCE0047ADD03EF3127DA539907BB3.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Emissive_Red.uasset'
+[2022.03.12-09.48.22:934][605]AssetCheck: New page: Asset Save: Emissive_Red
+[2022.03.12-09.48.22:934][605]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PlayerBP/LaserBP/Emissive_Red.Emissive_Red
+[2022.03.12-09.48.24:198][742]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.12-09.48.24:198][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.12-09.48.45:347][952]LogContentBrowser: Attempting asset rename: Emissive -> Emissive_Green
+[2022.03.12-09.48.45:390][952]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Emissive_GreenB5804BE04790E0893CB094AABF4E5E92.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Emissive_Green.uasset'
+[2022.03.12-09.48.45:503][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.12-09.48.45:531][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.03.12-09.48.45:549][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.12-09.48.45:567][952]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Emissive_RedF304ACD64FBE16567878B896342C157E.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Emissive_Red.uasset'
+[2022.03.12-09.48.45:629][952]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.12-09.48.45:629][952]LogContentValidation: Display: Validating Material /Game/PlayerBP/LaserBP/Emissive_Green.Emissive_Green
+[2022.03.12-09.48.45:629][952]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PlayerBP/LaserBP/Emissive_Red.Emissive_Red
+[2022.03.12-09.48.56:317][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBP/LaserBP/Laser" FILE="../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Laser.uasset" SILENT=true
+[2022.03.12-09.48.56:321][101]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Laser7590877F4A6B644624CB9DAC5070126C.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Laser.uasset'
+[2022.03.12-09.48.56:330][101]AssetCheck: New page: Asset Save: Laser
+[2022.03.12-09.48.56:330][101]LogContentValidation: Display: Validating Blueprint /Game/PlayerBP/LaserBP/Laser.Laser
+[2022.03.12-09.51.53:486][901]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Physics/Collision/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2022.03.12-09.56.34:198][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.03.12-09.56.34:211][643]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/ThirdPersonExampleMap_Auto9B405350048CD2FC87E4A60A866C541D2.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2022.03.12-09.56.34:212][643]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.058
+[2022.03.12-09.56.34:212][643]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.03.12-09.56.34:213][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerBP/LaserBP/Laser] ([1] browsable assets)...
+[2022.03.12-09.56.34:229][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerBP/LaserBP/Laser.Laser]
+[2022.03.12-09.56.34:229][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerBP/LaserBP/Laser]
+[2022.03.12-09.56.34:236][643]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Laser_Auto90DFC23BF4FC7BB5B617196A4E5E38526.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Autosaves/Game/PlayerBP/LaserBP/Laser_Auto9.uasset'
+[2022.03.12-09.56.34:236][643]LogFileHelpers: Auto-saving content packages took 0.024
+[2022.03.12-09.57.36:942][727]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.03.12-09.57.58:557][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.57.58:559][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.57.58:560][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.57.58:565][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.57.58:566][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.57.58:566][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.00:393][287]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.00:394][287]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.00:395][287]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.01:792][454]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.01:793][454]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.01:794][454]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.03:108][611]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.03:110][611]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.03:111][611]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.03:800][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.03:801][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-09.58.03:802][693]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.04.45:984][385]LogSlate: Window 'New Channel' being destroyed
+[2022.03.12-10.05.38:128][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerBP/LaserBP/Laser" FILE="../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Laser.uasset" SILENT=true
+[2022.03.12-10.05.38:135][321]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Laser4A387E5945A3056A1B6F2EB89C398923.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/PlayerBP/LaserBP/Laser.uasset'
+[2022.03.12-10.05.38:150][321]AssetCheck: New page: Asset Save: Laser
+[2022.03.12-10.05.38:150][321]LogContentValidation: Display: Validating Blueprint /Game/PlayerBP/LaserBP/Laser.Laser
+[2022.03.12-10.05.38:696][383]BlueprintLog: New page: Compile Laser
+[2022.03.12-10.05.38:749][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.03.12-10.06.34:577][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.03.12-10.06.34:590][649]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/ThirdPersonExampleMap_Auto0961DB91C4127F59BDB63E4934B695CA7.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2022.03.12-10.06.34:591][649]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2022.03.12-10.06.34:591][649]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2022.03.12-10.06.34:592][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2022.03.12-10.06.34:614][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2022.03.12-10.06.34:614][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.03.12-10.06.34:629][649]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/ThirdPersonCharacter_Auto00CC37CCF4DC0842F22256FA9205BF9C3.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset'
+[2022.03.12-10.06.34:630][649]LogFileHelpers: Auto-saving content packages took 0.038
+[2022.03.12-10.07.18:234][651]LogSavePackage: Moving '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Saved/ThirdPersonCharacter1918DAA940F7AA072D7C5398BDA4DAC5.tmp' to '../../../../../../Video Games/Unreal Projects/Unreal_Top-Down_Project/TopDownProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.12-10.07.18:251][651]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.12-10.07.18:252][651]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.12-10.07.18:503][671]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.03.12-10.07.18:518][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:519][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:520][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:521][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:522][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:522][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:564][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.03.12-10.07.18:565][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:566][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:567][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:568][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:575][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:576][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.18:577][671]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.19:247][723]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.12-10.07.19:247][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.12-10.07.37:248][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.12-10.07.37:488][530]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.54:390][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.54:391][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2022.03.12-10.07.54:392][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
